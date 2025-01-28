@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\alexm\OneDrive\Escritorio\backend_bitacora_prestamos\entornoPython
+set VIRTUAL_ENV=C:\Users\alexm\OneDrive\Escritorio\FastAPI-Project-Bitacora\entornoPython
 
 if not defined PROMPT set PROMPT=$P$G
 
